@@ -12,7 +12,7 @@ Vcs-Browser: https://github.com/BunsenLabs/material-solarized-suruplusplus-icons
 Package: material-solarized-suruplusplus-icons-bark
 Architecture: all
 Depends: ${misc:Depends}, librsvg2-common
-Recommends: gtk-update-icon-cache
+Recommends: gtk-update-icon-cache labbe-material-icons
 Description: Material-Solarized-Bark++ icon set
  From rtl88-Themes, this is the Material-Solarized-Suru++ icon set
  from the Material-Solarized branch, packaged and modified for
