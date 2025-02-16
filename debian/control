@@ -9,7 +9,7 @@ Homepage: https://github.com/BunsenLabs/material-solarized-suruplusplus-icons-ba
 Vcs-Git: https://github.com/BunsenLabs/material-solarized-suruplusplus-icons-bark.git
 Vcs-Browser: https://github.com/BunsenLabs/material-solarized-suruplusplus-icons-bark
 
-Package: material-solarized-suruplusplus-icon-theme
+Package: material-solarized-suruplusplus-icons-bark
 Architecture: all
 Depends: ${misc:Depends}, librsvg2-common
 Recommends: gtk-update-icon-cache
